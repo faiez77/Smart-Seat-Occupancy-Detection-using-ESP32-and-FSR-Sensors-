@@ -1,0 +1,1 @@
+# Smart-Seat-Occupancy-Detection-using-ESP32-and-FSR-Sensors-
