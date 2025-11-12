@@ -1,5 +1,8 @@
 # 🪑 Smart Seat Vacancy Monitoring System (ESP32 + FSR Sensors + Wi-Fi + Bluetooth)
 
+<img width="1060" height="753" alt="image" src="https://github.com/user-attachments/assets/9a3309e0-5812-41a6-8d69-e24486e9455a" />
+
+
 ### 🔍 Overview
 This project implements a **real-time seat occupancy monitoring system** using an **ESP32** and **Force Sensitive Resistors (FSRs)**.  
 The ESP32 reads analog data from two FSR sensors through a **voltage divider circuit**, determines if each seat is occupied or vacant, and displays the results on a **Wi-Fi-based web dashboard**.  
